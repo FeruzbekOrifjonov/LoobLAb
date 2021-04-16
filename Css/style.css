@@ -63,6 +63,7 @@
 @media(max-width:400px){
     #bigfather{
         margin: 3rem;
+        margin-bottom:0px;
         
     }
 }
